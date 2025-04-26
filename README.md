@@ -1,0 +1,1 @@
+# snapshot-caption-generator
